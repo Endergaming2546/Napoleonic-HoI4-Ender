@@ -1,1 +1,191 @@
-<mxfile host="app.diagrams.net" modified="2022-11-20T03:34:19.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" version="20.5.3" etag="_K6zmtpMGzv78bixxsYo" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-20T05:26:16.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" etag="Em7My5OB6t7tc1YLdtr7" version="20.5.3" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1010" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" background="#182E3E" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820.0000000000002" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-40" target="YBFiV2pFeokOeWEYWlD9-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-40" target="YBFiV2pFeokOeWEYWlD9-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-40" target="YBFiV2pFeokOeWEYWlD9-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-40" value="First French Republic Industry" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-49" target="YBFiV2pFeokOeWEYWlD9-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-49" value="Kingdom of France Industry" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1440" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-50" target="YBFiV2pFeokOeWEYWlD9-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-50" value="The Harvest of 1794" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-62" target="YBFiV2pFeokOeWEYWlD9-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-62" value="State of the French Economy" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1440" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-64" target="YBFiV2pFeokOeWEYWlD9-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-64" target="YBFiV2pFeokOeWEYWlD9-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-64" target="YBFiV2pFeokOeWEYWlD9-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-64" target="YBFiV2pFeokOeWEYWlD9-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-64" value="Summon the Estates General" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1440" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-66" value="Abolish the Salt Tax" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1280" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-68" value="Keep the Salt Tax (Alt)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1600" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-70" value="Confiscate Church Lands" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1440" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-72" target="YBFiV2pFeokOeWEYWlD9-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-72" value="Issue the Assignat" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1440" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-75" value="Dissolve the Guilds" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1760" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-77" value="Most of these focuses would have taken place during 1789-1792, but I can&#39;t really find anything 1792-1795 (earliest things I can find that is not 1789-1792 is 1795)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1400" y="240" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-78" value="Seems to be mostly 1795 stuff, see other note above kingdom" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-79" target="YBFiV2pFeokOeWEYWlD9-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-79" value="Paris Riots of 1795" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-81" target="YBFiV2pFeokOeWEYWlD9-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-81" target="YBFiV2pFeokOeWEYWlD9-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-81" value="The Harvest of 1795" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-83" target="YBFiV2pFeokOeWEYWlD9-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-83" value="Stop Issuing the Assignat" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-88" target="YBFiV2pFeokOeWEYWlD9-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-88" value="Issue the Franc" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-91" target="YBFiV2pFeokOeWEYWlD9-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-91" value="Stop Circulation of Paper Money" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-101" target="YBFiV2pFeokOeWEYWlD9-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-101" value="Plunder of Belgium" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-105" target="YBFiV2pFeokOeWEYWlD9-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-105" target="YBFiV2pFeokOeWEYWlD9-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-105" value="Conquest Focuses" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-108" target="YBFiV2pFeokOeWEYWlD9-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-108" value="Plunder Batavia" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="840" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-110" target="YBFiV2pFeokOeWEYWlD9-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-110" value="Plunder Italy" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="840" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-112" target="YBFiV2pFeokOeWEYWlD9-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-112" value="Plunder of the Rhineland" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-114" target="YBFiV2pFeokOeWEYWlD9-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-114" value="Default on 2/3 the Debt" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-125" value="Reintroduce Indirect Taxes" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-127" target="YBFiV2pFeokOeWEYWlD9-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-127" value="Napoleon&#39;s France" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1040" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-129" target="YBFiV2pFeokOeWEYWlD9-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-129" target="YBFiV2pFeokOeWEYWlD9-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YBFiV2pFeokOeWEYWlD9-129" target="YBFiV2pFeokOeWEYWlD9-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-129" value="Introduce the National Bank" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1040" y="840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-133" value="Alp Pass Expansion" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="880" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-135" value="Build Canals" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1200" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YBFiV2pFeokOeWEYWlD9-137" value="Continental Blockade" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontSize=13;fontColor=#000000;fillColor=#EEEEEE;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1040" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
